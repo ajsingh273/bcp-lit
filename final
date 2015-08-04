@@ -2720,6 +2720,8 @@ for (var j = 1; j &lt; p.length; j++) { url += "&amp;" + p[j]; }}
       <xsl:otherwise>
         <xsl:variable name="extension">
           <xsl:call-template name="last_substring_after">
+    		<xsl:with-param name="find" select="'.pdf'"/>
+    		<xsl:with-param name="replace" select="'.html'"/>
             <xsl:with-param name="string" select="substring-after(
                                                   $temp_url,
                                                   '/')"/>
