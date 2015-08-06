@@ -1,0 +1,270 @@
+<html><head>
+   <meta name="robots" content="NOINDEX,NOFOLLOW">
+   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+   
+   <title>Search Results:
+      amazon
+   </title><style>
+      <!--
+.s{font-size: 80%}
+.g{margin-top: 1em; margin-bottom: 1em; padding: 0 20px;}
+.s td{width:34em}
+.l{font-size: }
+.l{color: #0000cc}
+a:link,.w,.w a:link{color:#0000cc}
+.f,.f:link,.f a:link{color:#7777cc}
+a:visited,.f a:visited{color:#551a8b}
+a:active,.f a:active{color:#ff0000}
+.t{color:#000000}
+.t{background-color:#0d5786;}
+.z{display:none}
+.i,.i:link{color:#a90a08}
+.a,.a:link{color:#008000}
+div.n {margin-top: 1ex}
+.n a{font-size: 10pt; color:#000000}
+.n .i{font-size: 10pt; font-weight:bold}
+.q a:visited,.q a:link,.q a:active,.q {color:#0000cc;}
+.b,.b a{font-size: 12pt; color:#0000cc; font-weight:bold}
+.d{margin-right:1em; margin-left:1em;}
+div.oneboxResults {
+    height: expression( this.scrollHeight > 499 ? "500px" : "auto" ); /* sets
+    max-height for IE 499, 500 mismatch is to avoid IE6 freeze bug*/
+    max-height:500px;
+    overflow:visible;}
+
+
+body {
+  background:#0d5786;    
+  margin:0px;
+  background-image:url(/litigation-portal/bcp/assets/img/bg-v2.jpg);
+  background-repeat:repeat;
+  background-position:top;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+#header a {
+color: #fff;
+}
+
+#content {
+  text-align: left;
+  width:965px;
+  background:#fff;
+  position: relative;
+  margin:0 auto;
+  padding:10px 25px 10px;
+}
+#container {
+  position: relative;
+  margin:0 auto;
+  width:1350px;
+}
+#header_bg {
+  margin-top:0px;
+  background-image:url(https://ftcintranet.ftc.gov/litigation-portal/bcp/assets/img/bg-header.jpg);
+  background-position:inherit;
+  background-repeat:no-repeat;
+  height:125px;
+}
+#header {
+        margin-top:0px;
+  background-image:url(https://ftcintranet.ftc.gov/litigation-portal/bcp/assets/img/bg-header.jpg);
+  background-position:inherit;
+  background-repeat:no-repeat;
+  height:125px;
+  width:1350px;
+}
+#logo {
+  background-image:url(https://ftcintranet.ftc.gov/litigation-portal/bcp/assets/img/ftc-seal2.png);
+  background-repeat:no-repeat;
+  width:600px;
+  margin-left:40px;
+  margin-top:10px;
+  height:113px;
+  float:left;
+}
+
+#title {
+  color:#fff;
+  font-size:3.5em;
+  font-weight:bold;
+}
+.title-small {
+  font-size:24px;
+  color:#fff;
+}
+#search {
+  float:right;
+  padding-top:40px;
+}
+.searchBtn {
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  background-color:#fff;
+  border:0;
+  color:#fff;
+  margin-top:3px;
+  margin-right:3px;
+  width:16px;
+  height:14px;
+}
+.search_box {
+  border:0px;
+}
+
+
+#footer {
+  font-size:18px;
+  font-weight:bold;
+  color:#275e8f;
+  text-align: left;
+  width:965px;
+  background: #fff;
+  position: relative;
+  margin:0 auto;
+  margin-top:-50;
+  padding: 10px 25px 25px;
+}
+#footer a {
+  color:#279bdb;
+  text-decoration:none;
+}
+
+
+--></style><script type="text/javascript">
+      <!--
+        function resetForms() {
+          for (var i = 0; i < document.forms.length; i++ ) {
+              document.forms[i].reset();
+          }
+        }
+        // Search query
+  var page_query = "amazon"
+  // Starting page offset, usually 0 for 1st page, 10 for 2nd, 20 for 3rd.
+  var page_start = ""
+  // Front end that served the page.
+  var page_site = "litigation-portal"
+      //--></script></head>
+   <body onLoad="resetForms()" dir="ltr">
+      <div id="container"> <!-- Please enter html code below. -->
+         <table border="0" cellpadding="0" cellspacing="0" align="center">
+            <tr>
+               <td valign="middle">
+                  <div id="header">
+                     <div id="logo" title="FTC Intranet" onclick="window.location = 'https://ftcintranet.ftc.gov/litigation-portal/bcp/';"></div>
+                     <div id="search">
+                        <form name="gs" method="GET" action="search">
+                           <table border="0" cellpadding="0" cellspacing="0" width="395">
+                              <tr>
+                                 <td width="200" height="45"><span style="padding-left:10px;"><input type="text" name="q" size="32" maxlength="256" value="amazon"></span></td>
+                                 <td width="200" align="left"><input type="submit" name="btnG" value="Search"></td>
+                              </tr>
+                           </table>
+                           <table border="0" cellpadding="0" cellspacing="0" width="395">
+                              <tr>
+                                 <td width="130" nowrap="1">&nbsp;&nbsp;<span style="font-size: 10pt;"><a ctype="advanced" href="search?output=xml_no_dtd&amp;site=litigation-portal&amp;client=ftc_intranet&amp;proxystylesheet=bcplit_2015_b&amp;q=amazon&amp;btnG.x=0&amp;btnG.y=0&amp;ie=UTF-8&amp;ulang=en&amp;ip=164.62.106.169&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;oe=UTF-8&amp;ud=1&amp;proxycustom=<ADVANCED/&gt;">Advanced Search</a></span><br></td>
+                              </tr>
+                           </table>
+                           <input type="hidden" name="output" value="xml_no_dtd">
+                           <input type="hidden" name="client" value="ftc_intranet">
+                           <input type="hidden" name="proxystylesheet" value="bcplit_2015_b">
+                           <input type="hidden" name="btnG.x" value="0">
+                           <input type="hidden" name="btnG.y" value="0">
+                           <input type="hidden" name="ulang" value="en">
+                           <input type="hidden" name="sort" value="date:D:L:d1">
+                           <input type="hidden" name="entqr" value="3">
+                           <input type="hidden" name="entqrm" value="0">
+                           <input type="hidden" name="oe" value="UTF-8"><input type="hidden" name="ie" value="UTF-8">
+                           <input type="hidden" name="ud" value="1">
+                           <input type="hidden" name="site" value="litigation-portal"></form>
+                     </div>
+                  </div>
+               </td>
+            </tr>
+         </table>
+         <!--tro2-->
+         <div id="content">
+            <p class="g"><font size="-2"><b></b></font> <a
+               ctype="c"
+               
+               rank="1"
+               
+               href="https://ftcintranet.ftc.gov/litigation-portal/bcp/fyi-view-post.cfm?id=1442&page=view-post.cfm"><span class="l"><b>Amazon</b> Fails to Prevent Consumer Protection Agency from <b>...</b></span></a>
+               <table cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                     <td class="s"><b>...</b> Home &gt; FYI &gt; <b>Amazon</b> Fails to Prevent Consumer Protection Agency<br> from Contacting Consumers. FYI,
+                        <b>Amazon</b> Fails to <b>...</b>  <br><font color="#008000" size="-1">ftcintranet.ftc.gov/litigation-portal/bcp/fyi-view-post.cfm?id=1442&amp;page=view-post.cfm</font><font color="#008000" size="-1"> - 7k</font><font color="#008000" size="-1"> - </font><a ctype="cache" class="f" href="search?q=cache:Rlm6LxeOKw0J:ftcintranet.ftc.gov/litigation-portal/bcp/fyi-view-post.cfm%3Fid%3D1442%26page%3Dview-post.cfm+amazon&amp;output=xml_no_dtd&amp;site=litigation-portal&amp;client=ftc_intranet&amp;proxystylesheet=bcplit_2015_b&amp;ie=UTF-8&amp;access=p&amp;oe=ISO-8859-1">Cached</a></td>
+                  </tr>
+               </table>
+            </p><blockquote class="g">
+            <p class="g"><font size="-2"><b></b></font> <a
+               ctype="c"
+               
+               rank="2"
+               
+               href="https://ftcintranet.ftc.gov/litigation-portal/bcp/fyi-view-post.cfm?id=542"><span class="l"><b>Amazon</b> Motion to Dismiss Denied in Kid App Billing Case</span></a>
+               <table cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                     <td class="s"><b>...</b> Home &gt; FYI &gt; <b>Amazon</b> Motion to Dismiss Denied in Kid App Billing<br> Case. FYI, <b>Amazon</b> Motion
+                        to Dismiss Denied in Kid <b>...</b>  <br><font color="#008000" size="-1">ftcintranet.ftc.gov/litigation-portal/bcp/fyi-view-post.cfm?id=542</font><font color="#008000" size="-1"> - 7k</font><font color="#008000" size="-1"> - </font><a ctype="cache" class="f" href="search?q=cache:VfE02adJTYQJ:ftcintranet.ftc.gov/litigation-portal/bcp/fyi-view-post.cfm%3Fid%3D542+amazon&amp;output=xml_no_dtd&amp;site=litigation-portal&amp;client=ftc_intranet&amp;proxystylesheet=bcplit_2015_b&amp;ie=UTF-8&amp;access=p&amp;oe=ISO-8859-1">Cached</a><br>
+                        [
+                        <a ctype="sitesearch" class="f" href="search?as_sitesearch=https://ftcintranet.ftc.gov/litigation-portal/bcp/fyi-view-post.cfm&amp;output=xml_no_dtd&amp;site=litigation-portal&amp;client=ftc_intranet&amp;proxystylesheet=bcplit_2015_b&amp;q=amazon&amp;btnG.x=0&amp;btnG.y=0&amp;ie=UTF-8&amp;ulang=en&amp;ip=164.62.106.169&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;oe=UTF-8&amp;ud=1">More results from https://ftcintranet.ftc.gov/litigation-portal/bcp/fyi-view-post.cfm</a>
+                        ]
+                        
+                        
+                        
+                        
+                        
+                     </td>
+                  </tr>
+               </table>
+            </p></blockquote>
+            <p class="g"><font size="-2"><b>[PDF]</b></font> <a
+               ctype="c"
+               
+               rank="3"
+               
+               href="https://ftcintranet.ftc.gov/litigation-portal/bcp/exercise_files/FTC%20Motion%20to%20Compel%20Discovery%20Response.pdf"><span class="l">PLAINTIFF&#39;S MOTION TO COMPEL Federal Trade <b>...</b></span></a>
+               <table cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                     <td class="s"><b>...</b> Plaintiff, v. <b>AMAZON</b>.COM, INC., Defendant. Case No. <b>...</b> the Court for an order<br> compelling Defendant
+                        <b>Amazon</b>.com, Inc. (“<b>Amazon</b>”) to promptly <b>...</b>  <br><font color="#008000" size="-1">ftcintranet.ftc.gov/.../bcp/exercise_files/FTC%20Motion%20to%20Compel%20Discovery%20Response.pdf</font><font color="#008000" size="-1"> - 91k</font><font color="#008000" size="-1"> - 2015-08-04</font><font color="#008000" size="-1"> - </font><a ctype="cache" class="f" href="search?q=cache:4_wGQdSI3L0J:ftcintranet.ftc.gov/litigation-portal/bcp/exercise_files/FTC%2520Motion%2520to%2520Compel%2520Discovery%2520Response.pdf+amazon&amp;output=xml_no_dtd&amp;site=litigation-portal&amp;client=ftc_intranet&amp;proxystylesheet=bcplit_2015_b&amp;ie=UTF-8&amp;access=p&amp;oe=UTF-8">Text Version</a></td>
+                  </tr>
+               </table>
+            </p><blockquote class="g">
+            <p class="g"><font size="-2"><b>[PDF]</b></font> <a
+               ctype="c"
+               
+               rank="4"
+               
+               href="https://ftcintranet.ftc.gov/litigation-portal/bcp/exercise_files/FTC%20Reply%20on%20Motion%20to%20Compel%20Discovery%20Response.pdf"><span class="l">PLAINTIFF&#39;S REPLY IN SUPPORT OF Federal Trade <b>...</b></span></a>
+               <table cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                     <td class="s"><b>...</b> Plaintiff, v. <b>AMAZON</b>.COM, INC., Defendant. <b>...</b> 23 24 25 26 There are two<br> categories of discovery
+                        in dispute: (1) in-app charge data <b>Amazon</b> agreed <b>...</b>  <br><font color="#008000" size="-1">ftcintranet.ftc.gov/.../FTC%20Reply%20on%20Motion%20to%20Compel%20Discovery%20Response.pdf</font><font color="#008000" size="-1"> - 59k</font><font color="#008000" size="-1"> - 2015-08-04</font><font color="#008000" size="-1"> - </font><a ctype="cache" class="f" href="search?q=cache:VOodCpCBctEJ:ftcintranet.ftc.gov/litigation-portal/bcp/exercise_files/FTC%2520Reply%2520on%2520Motion%2520to%2520Compel%2520Discovery%2520Response.pdf+amazon&amp;output=xml_no_dtd&amp;site=litigation-portal&amp;client=ftc_intranet&amp;proxystylesheet=bcplit_2015_b&amp;ie=UTF-8&amp;access=p&amp;oe=UTF-8">Text Version</a><br>
+                        [
+                        <a ctype="sitesearch" class="f" href="search?as_sitesearch=https://ftcintranet.ftc.gov/litigation-portal/bcp/exercise_files&amp;output=xml_no_dtd&amp;site=litigation-portal&amp;client=ftc_intranet&amp;proxystylesheet=bcplit_2015_b&amp;q=amazon&amp;btnG.x=0&amp;btnG.y=0&amp;ie=UTF-8&amp;ulang=en&amp;ip=164.62.106.169&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;oe=UTF-8&amp;ud=1">More results from https://ftcintranet.ftc.gov/litigation-portal/bcp/exercise_files</a>
+                        ]
+                        
+                        
+                        
+                        
+                        
+                     </td>
+                  </tr>
+               </table>
+            </p></blockquote>
+            <p><i>
+                  In order to show you the most relevant results, we have omitted some entries very similar to the 4 already displayed.<br>If you like, you can <a href="search?output=xml_no_dtd&amp;site=litigation-portal&amp;client=ftc_intranet&amp;proxystylesheet=bcplit_2015_b&amp;q=amazon&amp;btnG.x=0&amp;btnG.y=0&amp;ie=UTF-8&amp;ulang=en&amp;ip=164.62.106.169&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;oe=UTF-8&amp;ud=1&amp;filter=0">repeat the search with the omitted results included</a>.
+                  </i></p>
+         </div>
+         <div id="content"></div>
+         <div id="ftcSeal" title="FTC Seal"></div>
+         <center><br><br></center><span class="p"> <!-- Please enter html code below. --></span><div id="footer">
+            <div align="center" style="border-top:1px solid;">
+               Suggest content. Give feedback. Email <a href="mailto:BCPLit@ftc.gov" title="email"> BCPLit@ftc.gov</a> |
+               <a href="https://ftcintranet.ftc.gov/index.cfm" title="FTC Intranet">FTC Intranet</a></div>
+         </div>
+      </div>
+   </body>
+</html>
