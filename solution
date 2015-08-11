@@ -1,19 +1,23 @@
-Line 2732, changing the text in brackets works.
- 
- 
- 
 Add this in line 2765:
 		
-	 <xsl:choose>
-        <xsl:when test="ends-with(.pdf, $db_url_protocol)">
-			<xsl:call-template name="">
-				<xsl:with-param name="string" select="substring-after($crowded_display_url1,'://')"/>
-			</xsl:call-template>
+<xsl:choose>
+        <xsl:when test="ends-with(.pdf, $find)">
+        <xsl:value-of select="substring-before($string, $find)"/>
+      	<xsl:value-of select="$replace"/>
+			<xsl:call-template name="replace_string">
+				 <xsl:with-param name="find" select="'.pdf'"/>
+				 <xsl:with-param name="replace" select="'.html'"/>
+  			</xsl:call-template>
 		</xsl:when>
-			<xsl:otherwise>
-				<xsl:value-of select="$crowded_display_url1"/>
-        	</xsl:otherwise>
-      </xsl:choose>
-     
-     
-Does line 1024 impact the results?
+	<xsl:otherwise>
+	<xsl:value-of select="$string"/>			
+        </xsl:otherwise>
+</xsl:choose>
+
+
+
+
+ Other options:
+ Line 2732, changing the text in brackets works.
+ Line 1024, decide whether to load html page or PDF file.
+ Line 3508, the default find/replace script.
