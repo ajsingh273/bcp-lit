@@ -1,0 +1,17 @@
+Line 2732, changing the text in brackets works.
+ 
+ 
+ 
+Add this in line 2765:
+		
+	 <xsl:choose>
+        <xsl:when test="ends-with(.pdf, $db_url_protocol)">
+			<xsl:call-template name="">
+				<xsl:with-param name="string" select="substring-after($crowded_display_url1,'://')"/>
+			</xsl:call-template>
+		</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="$crowded_display_url1"/>
+        	</xsl:otherwise>
+      </xsl:choose>
+      
