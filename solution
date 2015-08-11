@@ -16,4 +16,4 @@ Add this in line 2765:
       </xsl:choose>
      
      
-Does line 1024 need impact the results?
+Does line 1024 impact the results?
